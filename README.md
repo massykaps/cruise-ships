@@ -1,3 +1,1 @@
-This is a file 
-where I will be making a 
-cruise ship using JavaScript.
+This is a file for all intents and purposes.
